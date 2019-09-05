@@ -78,7 +78,11 @@
         hint: (e.g., 'git pull ...') before pushing again.
         hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
-//#Answer 12
+//Answer #12
+    Already up to date
 
+//Answer #13
+    cbarnett@sp-010:~/2400/git-lab-2$ ls -a
+    .  ..  .git  .gitignore  README.md
 
-
+//
